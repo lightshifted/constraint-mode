@@ -1,0 +1,27 @@
+{
+  "name": "constraint-mode",
+  "displayName": "Constraint Mode",
+  "version": "1.0.0",
+  "description": "Force singular focus on the one constraint that binds throughput to a stated mission. An interrogator, not an oracle.",
+  "license": "MIT",
+  "keywords": [
+    "constraint-mode",
+    "theory-of-constraints",
+    "focus",
+    "bottleneck",
+    "prioritization",
+    "agent-style"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "workflow",
+    "principles",
+    "planning"
+  ],
+  "skills": "./skills/",
+  "repository": "https://github.com/lightshifted/constraint-mode",
+  "author": {
+    "name": "Jason Wheeler"
+  },
+  "homepage": "https://github.com/lightshifted/constraint-mode"
+}
